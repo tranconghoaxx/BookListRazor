@@ -8,7 +8,7 @@ namespace BookListRazor.Model
 {
     public class Book
     {
-        // unique key
+        // unique key g
         [Key]
         public int Id { get; set; }
         // khong cho phep null
